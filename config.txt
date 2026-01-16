@@ -1,3 +1,0 @@
-Some configurations checked in after init
-need to pull this file down.
-Add some additional configurations
